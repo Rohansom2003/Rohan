@@ -1,4 +1,4 @@
-# Rohan
+![3rd](https://github.com/Rohansom2003/Rohan/assets/160768851/a430a38e-1766-42fb-aacf-a65342b016e8)# Rohan
 # A 4-week Research Internship on RISC-V using VSDSquadron Mini RISC-V Dev Board
 
 [Click here for board link](https://www.vlsisystemdesign.com/vsdsquadronmini/)
@@ -88,9 +88,10 @@ sudo make install
 sudo apt-get install iverilog
 
 
-![iverilog](https://github.com/ajeethdani/ajeetkumarkdani/assets/114277218/574044f3-3db5-44cf-b6ae-b0637f012f14)
+![iverilog]![3rd](https://github.com/Rohansom2003/Rohan/assets/160768851/a80c2049-ee5e-49e1-b7f9-f2853ee6aa55)
+
 
 
 ### GTkWave
  sudo apt-get install gtkwave 
-![gtkwave](https://github.com/ajeethdani/ajeetkumarkdani/assets/114277218/6a6e671f-7f0d-4acb-97a4-49c25a225b2b)
+![gtkwave]
