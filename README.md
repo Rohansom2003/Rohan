@@ -1,4 +1,4 @@
-![3rd](https://github.com/Rohansom2003/Rohan/assets/160768851/a430a38e-1766-42fb-aacf-a65342b016e8)# Rohan
+# Rohan
 # A 4-week Research Internship on RISC-V using VSDSquadron Mini RISC-V Dev Board
 
 [Click here for board link](https://www.vlsisystemdesign.com/vsdsquadronmini/)
