@@ -94,4 +94,5 @@ sudo apt-get install iverilog
 
 ### GTkWave
  sudo apt-get install gtkwave 
-![gtkwave]
+![gtkwave]![4th](https://github.com/Rohansom2003/Rohan/assets/160768851/865f656b-0627-4bb0-abb5-743a58c1825c)
+
