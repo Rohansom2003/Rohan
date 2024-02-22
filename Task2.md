@@ -45,7 +45,8 @@
 <details>
 <summary><b>Instruction code format </b></summary>
 	<br>
-![instruction code formats](https://github.com/ajeethdani/ajeetkumarkdani/assets/114277218/f554789e-4bbf-4dee-b263-a307933ef688)
+![instruction code formats]![32 bit instruction](https://github.com/Rohansom2003/Rohan/assets/160768851/b9f45246-ec67-41b5-9850-797e01a14b4e)
+
 </details>
 
 # RISC-V REGISTER FILE: 
