@@ -19,7 +19,8 @@ If the leafpad editor is opened without any errors then type the C code.**
 
 **Step 3: After writing the C code save the editor by Ctrl+s**
 
-![WhatsApp Image 2024-02-27 at 10 58 21 AM (2)](https://github.com/ajeethdani/ajeetkumarkdani/assets/114277218/a9003904-6d39-479c-a587-dfe039a9d9b5)
+![task3img2](https://github.com/Rohansom2003/Rohan/assets/160768851/5112f2e8-1d9d-4a30-981e-ff2b35f98567)
+
 
 
 **Step 4: Check for the errors by using the following command(compilation step)**
