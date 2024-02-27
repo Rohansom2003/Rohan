@@ -31,7 +31,8 @@ If the leafpad editor is opened without any errors then type the C code.**
 
 **./a.out**
 
-![WhatsApp Image 2024-02-27 at 10 58 21 AM (3)](https://github.com/ajeethdani/ajeetkumarkdani/assets/114277218/a22279f0-6b21-436f-8793-0d69fdaf8e54)
+![task3img3](https://github.com/Rohansom2003/Rohan/assets/160768851/1195ae30-c793-47b7-9390-5102fb7a89ed)
+
 
 **The results will be displayed as** 
 
