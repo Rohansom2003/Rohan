@@ -36,7 +36,7 @@ If the leafpad editor is opened without any errors then type the C code.**
 
 **The results will be displayed as** 
 
-**Sum of numbers from 1 to 50 is 1275**
+**Sum of numbers from 1 to 500 is 125250**
 
 
 ********************************************************RISCV Compilation and Execution*****************************************************
@@ -44,7 +44,7 @@ If the leafpad editor is opened without any errors then type the C code.**
 **Step 1: View the C Code in the editor window using the following command**
 
 **cat sum1ton.c**
-![WhatsApp Image 2024-02-27 at 11 51 41 AM](https://github.com/ajeethdani/ajeetkumarkdani/assets/114277218/8cfda518-af70-4453-8c98-78517e8dd6d9)
+![task3img4](https://github.com/Rohansom2003/Rohan/assets/160768851/1bf5b31a-2a16-4d3e-b557-9bc81ed5446f)
 
 
 **Step 2: Compile the code in riscv using the following command**
