@@ -69,6 +69,9 @@ If the leafpad editor is opened without any errors then type the C code.**
 ![task3img8](https://github.com/Rohansom2003/Rohan/assets/160768851/c29b585d-65db-46b7-bad6-798602aa3e21)
 
 
+![task3img9](https://github.com/Rohansom2003/Rohan/assets/160768851/cbc19fc6-1b59-4ea7-a4c3-0496263208e6)
+
+
 ![task3img6](https://github.com/Rohansom2003/Rohan/assets/160768851/4d3d98ea-9966-47ae-a831-67186282773e)
 
 
