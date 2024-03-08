@@ -7,7 +7,7 @@
 
  Open your terminal and type the following to install iverilog and GTKWave
  ```
- $ git clone https://github.com/ajeethdani/ajeetkumarkdani
+ $ git clone https://github.com/Rohansom2003/Rohan
  $   sudo apt get update
  $   sudo apt get install iverilog gtkwave
  $ cd Documents
