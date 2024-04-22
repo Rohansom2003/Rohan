@@ -11,6 +11,7 @@ ls-to check the contents of the folder
 
 **run the command gtkwave rohan.vcd**
 ![task4 1](https://github.com/Rohansom2003/Rohan/assets/160768851/0f715020-ad6a-464f-b840-ad0888beb7a2)
+
  **after running the command we get**
  ![task4 3](https://github.com/Rohansom2003/Rohan/assets/160768851/2f4fe2a2-8c2a-4e29-b842-4da0f1ba958c)
 
