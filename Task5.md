@@ -9,6 +9,12 @@ Gate-level simulation is a method used in digital design to verify the functiona
 ls-to check the contents of the folder
 
 
+Below figure showing all these listed files
+
+![task5 1](https://github.com/Rohansom2003/Rohan/assets/160768851/838cacae-ad68-4790-8aac-0acf278679f1)
+
+
+
 
 
 
