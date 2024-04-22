@@ -13,6 +13,14 @@ Below figure showing all these listed files
 
 ![task5 1](https://github.com/Rohansom2003/Rohan/assets/160768851/838cacae-ad68-4790-8aac-0acf278679f1)
 
+**After running the command gtkwave rohan.vcd we get**
+![task5 2](https://github.com/Rohansom2003/Rohan/assets/160768851/9f6d9644-701e-42ed-9719-8000cb1cf041)
+
+
+
+
+
+
 
 
 
