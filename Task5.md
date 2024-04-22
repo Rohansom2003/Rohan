@@ -17,6 +17,24 @@ Below figure showing all these listed files
 ![task5 2](https://github.com/Rohansom2003/Rohan/assets/160768851/9f6d9644-701e-42ed-9719-8000cb1cf041)
 
 
+Operations
+1. SUB operation
+
+![task5 3](https://github.com/Rohansom2003/Rohan/assets/160768851/a035268f-c68a-4f3a-8db1-2b802b161b9e)
+
+2. AND operation
+![task5 4](https://github.com/Rohansom2003/Rohan/assets/160768851/3a720088-aacb-4fba-8cdf-7af4c6788ef4)
+
+
+3. OR operation
+![task5 5](https://github.com/Rohansom2003/Rohan/assets/160768851/34fe07d6-88a7-4658-b554-d350c1e58265)
+
+
+4. XOR operation
+![task5 6](https://github.com/Rohansom2003/Rohan/assets/160768851/1e91b7cc-4d10-475d-b5a1-24944be00f1b)
+
+
+
 
 
 
